@@ -1,4 +1,4 @@
-Desafío 3 (cSS) - Media Queries
+Desafío 3 (cSS) - MediaQueries
 
 Break point; 
 Mobile: 576px
